@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DieTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-18T23:47:34" hostname="recruit-ThinkCentre-M72e" time="0.003">
+  <properties/>
+  <testcase name="DieRange" classname="DieTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
