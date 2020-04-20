@@ -7,7 +7,7 @@ public class DieTest {
         Die die6 = new Die(6);
         die6.roll();
 
-      //  Assert.assertEquals([0-6],die6.value);
+       // Assert.assertEquals(1|2|3|4|5|6,die6.value);
 
     }
 
